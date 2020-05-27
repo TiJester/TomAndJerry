@@ -33,6 +33,5 @@ public class MainActivity extends AppCompatActivity {
             taj2ImageView.animate().alpha(0).setDuration(3000);
             isImageVisible = true;
         }
-
     }
 }
