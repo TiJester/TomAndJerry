@@ -24,6 +24,8 @@
         android:layout_height="wrap_content"
         android:onClick="eraseTaJ"
         android:alpha="0"
+        android:scaleX="0.2"
+        android:scaleY="0.2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.491"
